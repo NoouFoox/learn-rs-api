@@ -5,4 +5,4 @@ edition = "2021"
 
 [dependencies]
 diesel = { version = "2.2.0", features = ["mysql"] }
-dotenvy = "0.15"
+dotenvy = "0.15" 
